@@ -1,0 +1,3 @@
+[submodule "data"]
+	path = data
+	url = https://cam-coding@github.com/cam-coding/FantasyHockeyTools-data
